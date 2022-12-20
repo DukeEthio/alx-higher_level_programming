@@ -3,7 +3,7 @@
 """
 File: 2-square.py
 Desc: This module contains a single class defination called Size.
-Author: Mesfin Tessema (Duke_Ethio)
+Author: Mesfin Mitikie (Duke_Ethio)
 Date Created: Dec 20 2022
 """
 
