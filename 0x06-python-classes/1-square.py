@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 
 """
-File: 0-square.py
-Desc: This module contains a single empty class defination.
-Author: Mesfin Tessema (Duke_Ethio)
+File: 1-square.py
+Desc: This module contains a single class defination Square.
+Author: Mesfin Mitikie(Duke_ethio)
 Date Created: Dec 20 2022
 """
+
 
 class Square():
     """
